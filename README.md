@@ -58,7 +58,7 @@ Como líder de tecnologia, minha missão é arquitetar e desenvolver soluções 
 ## 📫 Vamos conversar?
 
 <p align="left">
-<a href="delcio-farias-46a145322" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/delcio-farias-46a145322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:delciofarias04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-E_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
